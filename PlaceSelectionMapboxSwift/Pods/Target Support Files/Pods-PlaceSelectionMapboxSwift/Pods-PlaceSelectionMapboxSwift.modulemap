@@ -1,0 +1,6 @@
+framework module Pods_PlaceSelectionMapboxSwift {
+  umbrella header "Pods-PlaceSelectionMapboxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
